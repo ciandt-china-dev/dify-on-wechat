@@ -1,1 +1,2 @@
 project_name: cit-dify-on-wechat
+build_docker: false
